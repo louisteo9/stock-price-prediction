@@ -1,11 +1,11 @@
 # Stock Price Prediction
 ## Table of Contents
-1. Introduction
-2. File Descriptions
-3. Python Libraries Used
-4. Instructions
-5. Acknowledgements
-6. Screenshots
+1. [Introduction](https://github.com/louisteo9/stock-price-prediction/blob/main/README.md#introduction)
+2. [File Descriptions](https://github.com/louisteo9/stock-price-prediction/blob/main/README.md#file-descriptions)
+3. [Python Libraries Used](https://github.com/louisteo9/stock-price-prediction/blob/main/README.md#python-libraries-used)
+4. [Instructions](https://github.com/louisteo9/stock-price-prediction/blob/main/README.md#instructions)
+5. [Acknowledgements](https://github.com/louisteo9/stock-price-prediction/blob/main/README.md#acknowledgement)
+6. [Screenshots](https://github.com/louisteo9/stock-price-prediction/blob/main/README.md#screenshots)
 
 ## Introduction
 This project is my capstone project for Udacity's Data Scientist Nanodegree Program.
