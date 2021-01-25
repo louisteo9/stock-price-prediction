@@ -23,7 +23,7 @@ https://medium.com/@louisteo9/how-i-create-my-own-stock-price-predictor-f38c229b
 **predictor.py** - Python script to loan historical stock price data and future predict stock price.
 
 ### Folder: data
-**EOD-INTC.csv** - historical stock price data for Intel Inc, downloaded from Quandl.
+**EOD-INTC.csv** - historical stock price data for [Intel Inc](https://www.quandl.com/data/EOD/INTC-Intel-Corporation-INTC-Stock-Prices-Dividends-and-Splits) from [Quandl](https://www.quandl.com/).
 
 ### Folder: model
 **model.pkl** - trained LSTM model in pickle file.<br/>
