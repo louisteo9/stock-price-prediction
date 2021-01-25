@@ -14,7 +14,7 @@ We will implement two machine learning algorithms (Moving Average and LSTM) to p
 
 This project includes Python scripts where trader can input historical stock price data to get a trained LSTM model. The trained model can then be used to predict future stock price.
 
-Blog post accompanying this project (post status in DRAFT - to be published once this project is graded pass by Udacity reviewer)
+Blog post accompanying this project (post status in DRAFT - to be published once this project is graded pass by Udacity reviewer)<br/>
 https://medium.com/@louisteo9/how-i-create-my-own-stock-price-predictor-f38c229b758e
 
 ## File Descriptions
