@@ -10,7 +10,7 @@
 ## Introduction
 This project is my capstone project for Udacity's Data Scientist Nanodegree Program.
 
-We will implement two machine learning algorithms (Moving Average and LSTM) to predict future stock price of a company. Then we choose the best out of the two algorithm to develop our own stock price predictor.
+We will implement two machine learning algorithms (Moving Average and LSTM) to predict future stock price of a company. Then we choose the best out of the two algorithms to develop our own stock price predictor.
 
 This project includes Python scripts where trader can input historical stock price data to get a trained LSTM model. The trained model can then be used to predict future stock price.
 
