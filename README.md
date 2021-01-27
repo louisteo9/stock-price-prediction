@@ -15,7 +15,7 @@ We will implement two machine learning algorithms (Moving Average and LSTM) to p
 This project includes Python scripts where trader can input historical stock price data to get a trained LSTM model. The trained model can then be used to predict future stock price.
 
 Blog post accompanying this project<br/>
-https://medium.com/@louisteo9/creating-a-stock-price-predictor-f38c229b758e
+https://louisteo9.medium.com/how-i-create-my-stock-price-predictor-f38c229b758e
 
 ## File Descriptions
 **Stock Price Prediction.ipynb** - Jupyter Notebook used for stock price prediction.<br/>
